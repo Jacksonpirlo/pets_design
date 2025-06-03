@@ -35,6 +35,11 @@ nav .li_items {
     list-style: none;
 }
 
+nav .li_items li a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
 nav ul li:hover {
     cursor: pointer;
 }
